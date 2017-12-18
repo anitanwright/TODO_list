@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>TODO LIST</title>
+	<link rel="stylesheet" type="text/css" href="css/main.css">
+</head>
+
+<body>
+	<h1>Todo List</h1>
+		
+		<div>
+			<button onclick="handlers.toggleAll()">Toggle All</button>
+		</div>
+
+		<div>
+			<button onclick="handlers.addTodo()">Add Todo</button>
+			<input id="addTodoTextInput" type="text">
+		</div>
+
+		<div>
+			<button onclick="handlers.changeTodo()">Change Todo</button>
+			<input id="changeTodoPositionInput" type="number">
+			<input id="changeTodoTextInput"	type="text">
+		</div>
+		<div>
+			<button onclick="handlers.deleteTodo()">Delete</button>
+			<input id="deleteTodoPositonInput" type="number">
+		</div>
+
+		<div>
+			<button onclick="handlers.toggleCompleted()">Toggle Completed</button>
+			<input id="toggleCompletedPositionInput" type="number">
+		</div>
+		<ul>    <!-- this is what is needed to add our items to the li -->
+			</ul>
+
+	<script type="text/javascript" src="js/main.js"></script>
+</body>
+</html>
