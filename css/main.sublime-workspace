@@ -1,0 +1,443 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"com",
+				"completedTodos"
+			],
+			[
+				"element",
+				"elementClicked"
+			],
+			[
+				"todo",
+				"todoTextWithCompletion"
+			],
+			[
+				"todoTex",
+				"todoTextWithCompletion"
+			],
+			[
+				"todos",
+				"todosUl"
+			],
+			[
+				"u",
+				"ul\tTag"
+			],
+			[
+				"val",
+				"value"
+			],
+			[
+				"tog",
+				"toggleCompletedPositionInput"
+			],
+			[
+				"toggle",
+				"toggleCompleted"
+			],
+			[
+				"togg",
+				"toggleCompleted"
+			],
+			[
+				"to",
+				"toggleCompleted"
+			],
+			[
+				"delet",
+				"deleteTodoPositonInput"
+			],
+			[
+				"de",
+				"deleteTodoPositonInput"
+			],
+			[
+				"cha",
+				"changeTodoTextInput"
+			],
+			[
+				"changeTo",
+				"changeTodoTextInput"
+			],
+			[
+				"chang",
+				"changeTodoPositionInput"
+			],
+			[
+				"add",
+				"addTodo"
+			],
+			[
+				"toggl",
+				"toggleAll"
+			],
+			[
+				"displ",
+				"displayTodos"
+			],
+			[
+				"d",
+				"document"
+			],
+			[
+				"get",
+				"getElementById"
+			],
+			[
+				"display",
+				"displayTodosButton"
+			],
+			[
+				"is",
+				"isPink"
+			],
+			[
+				"bol",
+				"bolded"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"l",
+				"li\tTag"
+			],
+			[
+				"for",
+				"for\tfor (…) {…} (Improved Native For-Loop)"
+			],
+			[
+				"if",
+				"if\tif"
+			],
+			[
+				"sr",
+				"script\tTag"
+			],
+			[
+				"fri",
+				"friendGroups"
+			],
+			[
+				"text",
+				"textContent"
+			],
+			[
+				"ran",
+				"randomNumber"
+			],
+			[
+				"question",
+				"questionNumber"
+			],
+			[
+				"show",
+				"showResults"
+			],
+			[
+				"h",
+				"h1\tTag"
+			],
+			[
+				"capi",
+				"capitalize"
+			],
+			[
+				"fu",
+				"function"
+			],
+			[
+				"c",
+				"console"
+			],
+			[
+				"se",
+				"secretNumber"
+			],
+			[
+				"g",
+				"guess"
+			],
+			[
+				"e",
+				"else"
+			],
+			[
+				"padd",
+				"padding-top"
+			],
+			[
+				"padding",
+				"padding-top"
+			],
+			[
+				"margin",
+				"margin-bottom"
+			],
+			[
+				"font-s",
+				"font-size"
+			],
+			[
+				"font",
+				"font-weight"
+			],
+			[
+				"bord",
+				"border-style"
+			],
+			[
+				"siz",
+				"box-sizing"
+			],
+			[
+				"pro",
+				"prompt"
+			],
+			[
+				"how",
+				"howOld"
+			],
+			[
+				"la",
+				"lastName"
+			],
+			[
+				"fir",
+				"firstName"
+			],
+			[
+				"max",
+				"maxlength\tAttr"
+			],
+			[
+				"min",
+				"minlength\tAttr"
+			],
+			[
+				"sele",
+				"select-choice"
+			],
+			[
+				"op",
+				"option\tTag"
+			],
+			[
+				"sel",
+				"select-choice"
+			],
+			[
+				"th",
+				"thead\tTag"
+			],
+			[
+				"o",
+				"ol\tTag"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "Package Control: ",
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Add Repository"
+			],
+			[
+				" Package Control: Ins",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 412.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/anitawright/Desktop/beginnerProjects/todo_list/README.md",
+		"/Users/anitawright/Desktop/beginnerProjects/todo_list/myTodos/js/debugger.js",
+		"/Users/anitawright/Desktop/Udemy Web Dev Bootcamp /DOM/js/methods.js",
+		"/Users/anitawright/Library/Application Support/Sublime Text 3/Packages/User/Package Control.sublime-settings",
+		"/Users/anitawright/Desktop/Udemy Web Dev Bootcamp /arrays/forEach.js",
+		"/Users/anitawright/Downloads/forEach.js",
+		"/Users/anitawright/Desktop/Udemy Web Dev Bootcamp /arrays/arrays.js",
+		"/Users/anitawright/Desktop/beginnerProjects/Quiz-App/quizApp.js",
+		"/Users/anitawright/Desktop/beginnerProjects/guessing_game/guess.css",
+		"/Users/anitawright/Desktop/Udemy Web Dev Bootcamp /beginningJavascript/conditionals.js",
+		"/Users/anitawright/Desktop/Udemy Web Dev Bootcamp /beginningJavascript/basics.js",
+		"/Users/anitawright/Downloads/12_For_Loops_Solutions/forLoops.js",
+		"/Users/anitawright/Desktop/Udemy Web Dev Bootcamp /beginningJavascript/basics.html",
+		"/Users/anitawright/Desktop/Udemy Web Dev Bootcamp /beginningJavascript/loops.js",
+		"/Users/anitawright/Desktop/Udemy Web Dev Bootcamp /beginningJavascript/elseIf.js",
+		"/Users/anitawright/Downloads/03_GuessingGame/game.js",
+		"/Users/anitawright/Downloads/12_Blog_Solution/blog.css",
+		"/Users/anitawright/Library/Application Support/Sublime Text 3/Packages/Package Control/Package Control.sublime-settings",
+		"/Users/anitawright/Desktop/Udemy Web Dev Bootcamp /fontsExercise/customized.css",
+		"/Users/anitawright/Desktop/Udemy Web Dev Bootcamp /fontsExercise/customized.html",
+		"/Users/anitawright/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/anitawright/Library/Application Support/Sublime Text 3/Packages/User/View In Browser.sublime-settings",
+		"/Users/anitawright/Library/Application Support/Sublime Text 3/Packages/View In Browser/View In Browser.sublime-settings",
+		"/Users/anitawright/Desktop/Udemy Web Dev Bootcamp /tic-tac-toe/style.css",
+		"/Users/anitawright/Desktop/Udemy Web Dev Bootcamp /tic-tac-toe/index.html",
+		"/Users/anitawright/Downloads/04_Box_Model/style.css",
+		"/Users/anitawright/Desktop/Udemy Web Dev Bootcamp /09_Selector_Exercise_Starter/selectors.css",
+		"/Users/anitawright/Desktop/Udemy Web Dev Bootcamp /09_Selector_Exercise_Starter/selectorsExercise.html",
+		"/Users/anitawright/filename",
+		"/Users/anitawright/Desktop/Udemy Web Dev Bootcamp /formsExercise.html",
+		"/Users/anitawright/Desktop/Udemy Web Dev Bootcamp /Pokemon.html",
+		"/Users/anitawright/Downloads/pokemondata.txt",
+		"/Users/anitawright/Desktop/quiz1.html",
+		"/Users/anitawright/Desktop/firstPage.html",
+		"/Users/anitawright/Desktop/Things I've Learned"
+	],
+	"find":
+	{
+		"height": 0.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 35.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "main.sublime-project",
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
